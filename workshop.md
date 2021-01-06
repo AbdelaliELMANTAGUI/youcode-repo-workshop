@@ -7,9 +7,9 @@
  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     
 ```
 # Ubuntu Command Line 
-
-1. **man**
-2. What manual page do you want? , command needs an argument(some linux command) to give a brief documentation
+*note* : I answered just steps that have questions
+1. **man** 
+2. What manual page do you want? , command needs an argument(some linux command) to give you a brief documentation
 3. **man ls**
 4.
 5. **manls** , **manls**: command not found , because a space needed between **man** and **ls** 
@@ -24,3 +24,8 @@
 14. 
 15. **cp -r olddir/ newdir/** you must use -r option to coppy the directory an it's content
 16. 
+17. **rm -rf link_path**
+18. **cat > filename** , entre file content and CLT + C when you finish typing.
+19. **cat -n file**
+20. **more -s file**
+21.  
